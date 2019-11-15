@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react_click_game/static/js/main.be34ca6a.chunk.js",
+    "main.js.map": "/react_click_game/static/js/main.be34ca6a.chunk.js.map",
+    "runtime-main.js": "/react_click_game/static/js/runtime-main.3abede52.js",
+    "runtime-main.js.map": "/react_click_game/static/js/runtime-main.3abede52.js.map",
+    "static/js/2.41c9eb87.chunk.js": "/react_click_game/static/js/2.41c9eb87.chunk.js",
+    "static/js/2.41c9eb87.chunk.js.map": "/react_click_game/static/js/2.41c9eb87.chunk.js.map",
+    "index.html": "/react_click_game/index.html",
+    "precache-manifest.55e3bc378b3c688b07dfbe1c29b83ea5.js": "/react_click_game/precache-manifest.55e3bc378b3c688b07dfbe1c29b83ea5.js",
+    "service-worker.js": "/react_click_game/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3abede52.js",
+    "static/js/2.41c9eb87.chunk.js",
+    "static/js/main.be34ca6a.chunk.js"
+  ]
+}
